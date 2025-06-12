@@ -28,17 +28,7 @@ I'm a multi-disciplinary creator blending **design** and **development**. Whethe
 
 ---
 
-## My Interactive 3D Work
-
-<a href="https://prod.spline.design/BQRGduYMxOup-3QK/scene.splinecode" target="_blank">
-  <img src="https://i.imgur.com/qQzXYQl.png" alt="Spline 3D Preview" style="width:100%; max-width:600px; border-radius: 12px;" />
-</a>
-
-> Click the image above to explore my interactive 3D experience built with [Spline](https://spline.design)
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 | Area       | Tools |
 |------------|-------|
