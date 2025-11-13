@@ -43,11 +43,11 @@ I build **secure, functional, and visually appealing digital experiences** acros
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SYED_SAMEER_UL_HASSAN&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-sameer-ul-hassan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYED_SAMEER_UL_HASSAN&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-sameer-ul-hassan&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ---
