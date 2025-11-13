@@ -1,50 +1,53 @@
-<!-- Hero Header -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hi,%20I'm%20SYED%20Sameer%20ul%20Hassan!&fontSize=40&fontColor=ffffff" alt="header"/>
+  <img src="https://via.placeholder.com/1200x300?text=SYED+SAMEER+UL+HASSAN+-+Cybersecurity+Technician" alt="Banner" />
 </p>
 
-<p align="center">
-  <strong>Graphic Designer • 3D Artist •  Full-Stack Dev •  App Developer</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+<h1 align="center">SYED SAMEER UL HASSAN</h1>
+<p align="center">Graphic Designer • 3D Artist • Full-Stack Developer • App Developer • Cybersecurity Technician</p>
 
 ---
 
-##  About Me
+## About Me
+I'm a multi-disciplinary creator and certified Cybersecurity Technician (**CCT - EC-Council**) blending **design, development, and security expertise**.  
+I build **secure, functional, and visually appealing digital experiences** across web, mobile, and 3D visuals.
 
-I'm a multi-disciplinary creator blending **design** and **development**. Whether it's **clean UIs**, **interactive apps**, or **3D visuals**, I craft digital experiences that are both functional and beautiful.
-
--  UI/UX Design, Brand Mockups, 3D Elements  
--  Web Dev with React, Node.js, TypeScript, MongoDB  
--  Android, Flutter, and React Native Apps  
--  Obsessed with aesthetics, structure & smooth user flow
+- 🎨 UI/UX Design, Brand Mockups, 3D Elements  
+- 💻 Web Dev: React, Node.js, TypeScript, MongoDB  
+- 📱 Mobile Apps: Flutter, Android Studio, React Native  
+- 🔒 Cybersecurity: Ethical Hacking, Pen Testing, Network Security  
+- ⚡ Obsessed with aesthetics, structure & smooth user flow
 
 ---
 
 ## Tech Stack
 
-| Area       | Tools |
-|------------|-------|
-|  Design  | Figma, Photoshop, Illustrator, Blender |
-|  Web     | React, Node.js, JavaScript, TypeScript |
-|  Backend | MongoDB, Express.js, Firebase, REST APIs |
-|  Mobile  | Flutter, Android Studio, React Native |
+| Area      | Tools & Technologies |
+|----------|--------------------|
+| Design   | Figma, Photoshop, Illustrator, Blender |
+| Web      | React, Node.js, JavaScript, TypeScript |
+| Backend  | MongoDB, Express.js, Firebase, REST APIs |
+| Mobile   | Android Studio, React Native |
+| Security | Kali Linux, Metasploit, Nmap, Wireshark, Burp Suite |
+
+---
+
+## Certifications
+
+![CCT](https://img.shields.io/badge/CCT-EC-Council-blue?style=for-the-badge)  
+- Certified Cybersecurity Technician (EC-Council)  
+- Ongoing training in Ethical Hacking, Penetration Testing, Vulnerability Assessment
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SYED_SAMEER_UL_HASSAN&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SYED_SAMEER_UL_HASSAN&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -52,22 +55,36 @@ I'm a multi-disciplinary creator blending **design** and **development**. Whethe
 ## Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/SYED_SAMEER_UL_HASSAN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" title="Email"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" title="Twitter"/>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://yourwebsite.dev">
-    <img src="https://img.icons8.com/color/48/domain.png" title="Portfolio"/>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
-</p>
+## Popular Repositories
+
+<details>
+<summary>Click to Expand</summary>
+
+- **[Awesome-Hacking](https://github.com/SYED_SAMEER_UL_HASSAN/Awesome-Hacking)**  
+A collection of awesome lists for hackers, pentesters, and security researchers.
+
+- **[WIFY JAMMER DDOS TOOL](https://github.com/SYED_SAMEER_UL_HASSAN/o-sameer)**  
+Python-based network testing tool for ethical learning.
+</details>
+
+---
+
+## Footer
+I'm always learning, building, and exploring new technologies in **cybersecurity, app development, and digital design**.  
+Feel free to connect or collaborate!
