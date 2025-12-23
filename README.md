@@ -44,8 +44,8 @@
   <a href="mailto:sameer@orildo.online">
     <img src="https://img.shields.io/badge/Email-sameer@orildo.online-e0aaff?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/syed_sameer_ul_hassan">
-    <img src="https://img.shields.io/badge/Instagram-@syed__sameer__ul__hassan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/syed_sameer_ul_hassan_kazmi">
+    <img src="https://img.shields.io/badge/Instagram-@syed_sameer_ul_hassan_kazmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
