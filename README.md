@@ -78,8 +78,8 @@
   </p>
   
   <p><b>👇 Bitcoin (BTC) Address (Copy Below) 👇</b></p>
-  
-   `   1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6   `
+
+    1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6
 
   <img src="https://img.shields.io/badge/Bitcoin-Accepted-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   
