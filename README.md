@@ -68,7 +68,7 @@
 
     1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6 
 
-  <img src="https://img.shields.io/badge/Bitcoin-Accepted-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@syed_sameer_ul_hassan_kazmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color&customColorList=E0AAFF,7b16ff&height=100&section=footer"/>
