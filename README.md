@@ -56,8 +56,8 @@
 <br/><br/>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=5&section=header" width="100%"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
+</div>
   <h3>FUEL THE DEVELOPMENT</h3>
   <p>
     Building advanced, professional-grade security tools requires resources. <br/>
@@ -68,8 +68,7 @@
 
     1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6 
 
-<img src="https://img.shields.io/badge/Instagram-@syed_sameer_ul_hassan_kazmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  
+
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color&customColorList=E0AAFF,7b16ff&height=100&section=footer"/>
 </div>
