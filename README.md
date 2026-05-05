@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=e0aaff&center=true&vCenter=true&width=900&height=120&lines=Hi,+I+am...;Syed+Sameer+Ul+Hassan;Cyber+Security+Technician" alt="Typing SVG" />
   </a>
 </div>
@@ -11,23 +11,21 @@
 <br/>
 
 <div align="right">
-  <h3>VERIFIED CREDENTIALS</h3>
+  <h3><font color="white">CREDENTIALS</font></h3>
   <img src="https://img.shields.io/badge/Certification-EC--Council_CCT-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-VERIFIED-e0aaff?style=for-the-badge&logo=adguard&logoColor=ffffff"/>
 </div>
 
 <br/>
 
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
-  
-  <h3>MISSION BRIEF</h3>
-  
+  <h3><font color="white">MISSION BRIEF</font></h3>
+
   > `In a world of digital noise, privacy is the only true luxury.`
 
-  > I am a <b>Cybersecurity Technician</b> driven by a single objective: to dismantle surveillance and reconstruct privacy. 
-  
-  > My primary focus is on <b>System Defense</b> and <b>Cryptographic Security</b>. I am currently architecting a comprehensive ecosystem designed to ensure that every person's digital identity remains secure, immutable, and private. I build tools that empower the user, not the tracker.
+  > I am a <b>Cybersecurity Technician</b> focused on building secure, privacy-first systems.
+
+  > My primary focus is on <b>System Defense</b> and <b>Cryptographic Security</b>. I design and develop tools that strengthen digital integrity, enhance monitoring, and protect user data.
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
 </div>
@@ -35,34 +33,34 @@
 <br/>
 
 <div align="right">
-  <h3>CONNECT WITH ME</h3>
-  <a href="https://sameer.orildo.online">
+  <h3><font color="white">CONNECT WITH ME</font></h3>
+  <a href="https://sameer.orildo.online" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:sameer@orildo.online">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222"/>
   </a>
-  <a href="https://pk.linkedin.com/in/syed-sameer-ul-hassan-a752823a3">
+  <a href="https://pk.linkedin.com/in/syed-sameer-ul-hassan-a752823a3" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222"/>
   </a>
-  <a href="https://instagram.com/syed_sameer_ul_hassan_kazmi">
+  <a href="https://instagram.com/syed_sameer_ul_hassan_kazmi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222"/>
   </a>
   <br>
-  <a href="https://www.threads.net/@syed_sameer_ul_hassan_kazmi">
+  <a href="https://www.threads.net/@syed_sameer_ul_hassan_kazmi" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Threads-222222?style=for-the-badge&logo=threads&logoColor=white&labelColor=222222"/>
   </a>
-  <a href="https://www.reddit.com/user/syed_sameer_ul_hassn/">
+  <a href="https://www.reddit.com/user/syed_sameer_ul_hassn/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Reddit-222222?style=for-the-badge&logo=reddit&logoColor=white&labelColor=222222"/>
   </a>
-  <a href="https://x.com/sameer_shah422">
+  <a href="https://x.com/sameer_shah422" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X.Corp-222222?style=for-the-badge&logo=x&logoColor=white&labelColor=222222"/>
   </a>
 </div>
 
 <br/>
 
-### TECHNICAL ARSENAL
+### <font color="white">TECHNICAL ARSENAL</font>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-222222?style=for-the-badge&logo=go&logoColor=white"/>
@@ -77,19 +75,34 @@
 
 <br/>
 
-<div align="right">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
-  
-  <h3>FUEL THE DEVELOPMENT</h3>
-  <p>
-    Building advanced, professional-grade security tools requires resources. <br/>
-    Support the mission to create a secure digital future.
-  </p>
-  
-  <p><b>ↆBITCOINE ADDRESS (BTC)ↆ</b></p>
-  <p>ↆ ↆ ↆ ↆ ↆ</p>
-  <code>1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6</code>
-  <br/><br/>
-  
+  <h3><font color="white">FEATURED PROJECTS</font></h3>
+
+  <table width="100%">
+    <tr>
+      <td width="50%" align="left" valign="top">
+        <a href="https://github.com/syed-sameer-ul-hassan/Zenith-Sentry" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/Zenith-Sentry/main/assets/logo.svg" alt="Zenith-Sentry" width="100%"/>
+          <br/><b>ZENITH SENTRY</b>
+        </a>
+        <p>Production grade Linux EDR with eBPF telemetry, behavioral detection, MITRE mapping, and real-time threat monitoring.</p>
+      </td>
+      <td width="50%" align="right" valign="top">
+        <a href="https://github.com/syed-sameer-ul-hassan/AEISX" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/AEISX/main/assets/logo.svg" alt="AEISX" width="100%"/>
+          <br/><b>AEISX SYSTEM</b>
+        </a>
+        <p>eBPF based network threat detection and firewall system with real-time protection against floods, scans, and rate limiting attacks.</p>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<div align="right">
   <img src="https://capsule-render.vercel.app/api?type=waving&color&customColorList=E0AAFF,7b16ff&height=100&section=footer" width="100%"/>
 </div>
