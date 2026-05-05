@@ -35,40 +35,61 @@
 <br/>
 
 <div align="right">
+  <h3>CONNECT WITH ME</h3>
   <a href="https://sameer.orildo.online">
-    <img src="https://img.shields.io/badge/Website-sameer.orildo.online-7B16FF?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <br>
   <a href="mailto:sameer@orildo.online">
-    <img src="https://img.shields.io/badge/Email-sameer@orildo.online-e0aaff?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222"/>
+  </a>
+  <a href="https://pk.linkedin.com/in/syed-sameer-ul-hassan-a752823a3">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222222"/>
+  </a>
+  <a href="https://instagram.com/syed_sameer_ul_hassan_kazmi">
+    <img src="https://img.shields.io/badge/Instagram-222222?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222"/>
   </a>
   <br>
-  <img src="https://img.shields.io/badge/Instagram-@syed_sameer_ul_hassan_kazmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.threads.net/@syed_sameer_ul_hassan_kazmi">
+    <img src="https://img.shields.io/badge/Threads-222222?style=for-the-badge&logo=threads&logoColor=white&labelColor=222222"/>
+  </a>
+  <a href="https://www.reddit.com/user/syed_sameer_ul_hassn/">
+    <img src="https://img.shields.io/badge/Reddit-222222?style=for-the-badge&logo=reddit&logoColor=white&labelColor=222222"/>
+  </a>
+  <a href="https://x.com/sameer_shah422">
+    <img src="https://img.shields.io/badge/X.Corp-222222?style=for-the-badge&logo=x&logoColor=white&labelColor=222222"/>
+  </a>
 </div>
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: flex-end; gap: 15px;">
-  
-  <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/syed-sameer-ul-hassan/main/img.png" alt="Arsenal Icons" height="500" />
+### TECHNICAL ARSENAL
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-222222?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-222222?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kernel--eBPF-222222?style=for-the-badge&logo=linux&logoColor=white&labelColor=222222"/>
+  <img src="https://img.shields.io/badge/OS--Linux-222222?style=for-the-badge&logo=linux&logoColor=white&labelColor=222222"/>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="right">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
-</div>
+  
   <h3>FUEL THE DEVELOPMENT</h3>
   <p>
     Building advanced, professional-grade security tools requires resources. <br/>
     Support the mission to create a secure digital future.
   </p>
   
- <p><b>👇 Bitcoin (BTC) Address (Copy Below) 👇</b></p>
-
-    1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6 
-
-
+  <p><b>ↆBITCOINE ADDRESS (BTC)ↆ</b></p>
+  <p>ↆ ↆ ↆ ↆ ↆ</p>
+  <code>1BPGX4d4SQFmyYAqxxgvqm7HaCaNDdLeg6</code>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color&customColorList=E0AAFF,7b16ff&height=100&section=footer"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color&customColorList=E0AAFF,7b16ff&height=100&section=footer" width="100%"/>
 </div>
