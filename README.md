@@ -91,9 +91,18 @@
       <td width="50%" align="right" valign="top">
         <a href="https://github.com/syed-sameer-ul-hassan/AEISX" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/AEISX/main/assets/logo.svg" alt="AEISX" width="100%"/>
-          <br/><b>AEISX SYSTEM</b>
+          <br/><b>AEISX</b>
         </a>
         <p>eBPF based network threat detection and firewall system with real-time protection against floods, scans, and rate limiting attacks.</p>
+      </td>
+    </tr>
+    <br>
+    <td width="50%" align="left" valign="top">
+        <a href="https://github.com/syed-sameer-ul-hassan/SQL-Easy" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/SQL-Easy/main/assets/logo.svg" alt="AEISX" width="100%"/>
+          <br/><b>SQL Easy</b>
+        </a>
+        <p>SQL Easy is an automated menu driven pipeline that simplifies mass SQL injection reconnaissance. It seamlessly chains subdomain discovery parameter extraction and vulnerability testing into a single interactive terminal workflow.</p>
       </td>
     </tr>
   </table>
