@@ -97,15 +97,26 @@
       </td>
     </tr>
     <br>
-    <td width="50%" align="left" valign="top">
+  </table>
+
+ <table width="100%">
+    <tr>
+      <td width="100%" align="left" valign="top">
         <a href="https://github.com/syed-sameer-ul-hassan/SQL-Easy" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/SQL-Easy/main/assets/logo.svg" alt="AEISX" width="100%"/>
-          <br/><b>SQL Easy</b>
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/SQL-Easy/main/assets/logo.svg" alt="SQL Easy" width="100%"/>
+          <br/><br/>
+          <b>SQL EASY</b>
         </a>
-        <p>SQL Easy is an automated menu driven pipeline that simplifies mass SQL injection reconnaissance. It seamlessly chains subdomain discovery parameter extraction and vulnerability testing into a single interactive terminal workflow.</p>
+        <p>
+          SQL Easy is an automated menu driven pipeline that simplifies mass SQL
+          injection reconnaissance. It seamlessly chains subdomain discovery,
+          parameter extraction, and vulnerability testing into a single
+          interactive terminal workflow.
+        </p>
       </td>
     </tr>
   </table>
+
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
 </div>
