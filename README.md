@@ -108,10 +108,7 @@
           <b>SQL EASY</b>
         </a>
         <p>
-          SQL Easy is an automated menu driven pipeline that simplifies mass SQL
-          injection reconnaissance. It seamlessly chains subdomain discovery,
-          parameter extraction, and vulnerability testing into a single
-          interactive terminal workflow.
+         SQL Easy is an automated SQL injection and reconnaissance pipeline that chains Subfinder, Httpx, Katana, and SQLMap into a single intelligent workflow for security researchers and penetration testers
         </p>
       </td>
     </tr>
