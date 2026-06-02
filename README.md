@@ -99,21 +99,25 @@
     <br>
   </table>
 
- <table width="100%">
+   <table width="100%">
     <tr>
-      <td width="100%" align="left" valign="top">
+      <td width="50%" align="left" valign="top">
         <a href="https://github.com/syed-sameer-ul-hassan/SQL-Easy" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/SQL-Easy/main/assets/logo.svg" alt="SQL Easy" width="100%"/>
-          <br/><br/>
-          <b>SQL EASY</b>
+          <br/><b>SQL EASY</b>
         </a>
-        <p>
-         SQL Easy is an automated SQL injection and reconnaissance pipeline that chains Subfinder, Httpx, Katana, and SQLMap into a single intelligent workflow for security researchers and penetration testers
-        </p>
+        <p>Automated SQL injection and reconnaissance pipeline chaining Subfinder, Httpx, Katana, and SQLMap for security researchers.</p>
+      </td>
+      <td width="50%" align="right" valign="top">
+        <a href="https://github.com/syed-sameer-ul-hassan/ORINAL" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/ORINAL/main/assets/logo.svg" alt="ORINAL" width="100%"/>
+          <br/><b>ORINAL</b>
+        </a>
+        <p>Minimalist x86 boot sector for OS development: transitions to 32-bit protected mode, manages VGA text output, and handles keyboard IRQs.</p>
       </td>
     </tr>
   </table>
-
+  
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
 </div>
