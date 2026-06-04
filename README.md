@@ -113,7 +113,7 @@
           <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/MailSpoof/main/assets/logo.svg" alt="ORINAL" width="100%"/>
           <br/><b>Mail Spoof</b>
         </a>
-        <p>Minimalist x86 boot sector for OS development: transitions to 32-bit protected mode, manages VGA text output, and handles keyboard IRQs.</p>
+        MailSpoof is a professional, open-source email spoofing and phishing simulation framework designed for authorized penetration testing, red team operations, and security awareness training</p>
       </td>
     </tr>
   </table>
