@@ -109,9 +109,9 @@
         <p>Automated SQL injection and reconnaissance pipeline chaining Subfinder, Httpx, Katana, and SQLMap for security researchers.</p>
       </td>
       <td width="50%" align="right" valign="top">
-        <a href="https://github.com/syed-sameer-ul-hassan/ORINAL" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/ORINAL/main/assets/logo.svg" alt="ORINAL" width="100%"/>
-          <br/><b>ORINAL</b>
+        <a href="https://github.com/syed-sameer-ul-hassan/MailSpoof" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/syed-sameer-ul-hassan/MailSpoof/main/assets/logo.svg" alt="ORINAL" width="100%"/>
+          <br/><b>Mail Spoof</b>
         </a>
         <p>Minimalist x86 boot sector for OS development: transitions to 32-bit protected mode, manages VGA text output, and handles keyboard IRQs.</p>
       </td>
