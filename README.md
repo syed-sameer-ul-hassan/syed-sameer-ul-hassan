@@ -124,6 +124,11 @@ Professional open-source email spoofing and phishing simulation framework design
   <img src="https://capsule-render.vercel.app/api?type=rect&color=e0aaff&height=2&section=header" width="100%"/>
 </div>
 
+|  **Upcoming Release** |
+| :--- |
+| A new project is currently under development and scheduled for deployment soon. Stay tuned for updates regarding features and official release dates. |
+
+
 <br/>
 
 <div align="right">
