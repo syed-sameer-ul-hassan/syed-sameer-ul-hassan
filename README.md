@@ -13,10 +13,15 @@
 <div align="right">
   <h3><font color="white">CREDENTIALS</font></h3>
   <a href="https://learn.eccouncil.org/certificate/51b21746-612f-4909-9df6-3c9fbd3a9a7c" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Certification-EC--Council_CCT-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Certification-EC-Council_CCT-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
   </a>
+
+<a href="https://learn.eccouncil.org/certificate/eb1f4c22-9598-4cf1-ae4a-7bcd6db92570" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Certification-EC-Council_CCNA-ff0000?style=for-the-badge&logo=shield&logoColor=white"/>
+  </a>
+
   <a href="https://learn.eccouncil.org/certificate/51b21746-612f-4909-9df6-3c9fbd3a9a7c" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Certification-OWASP_ZAP_Penetration_Testing-005A9C?style=for-the-badge&logo=owasp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Certification Penetration Testing-005A9C?style=for-the-badge&logo=owasp&logoColor=white"/>
   </a>
 </div>
 
