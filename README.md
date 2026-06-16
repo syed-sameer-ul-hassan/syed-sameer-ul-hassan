@@ -13,16 +13,8 @@
 <div align="right">
   <h3>CREDENTIALS</h3>
 
-  <a href="https://learn.eccouncil.org/certificate/51b21746-612f-4909-9df6-3c9fbd3a9a7c" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.eccouncil.org/certificate/3a456b21-f180-40f5-b8b1-2d49a1257442?logged=true" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EC--Council-CCT-red?style=for-the-badge&logo=shield&logoColor=white" />
-  </a>
-
-  <a href="https://learn.eccouncil.org/certificate/eb1f4c22-9598-4cf1-ae4a-7bcd6db92570" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EC--Council-CCNA-red?style=for-the-badge&logo=shield&logoColor=white" />
-  </a>
-
-  <a href="YOUR_CPT_CERTIFICATE_LINK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EC--Council-CPT-red?style=for-the-badge&logo=shield&logoColor=white" />
   </a>
 </div>
 
