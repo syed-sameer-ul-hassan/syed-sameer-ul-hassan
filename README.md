@@ -14,7 +14,7 @@
   <h3>CREDENTIALS</h3>
 
   <a href="https://learn.eccouncil.org/certificate/3a456b21-f180-40f5-b8b1-2d49a1257442?logged=true" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EC-Council-CCT-222222?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/EC-Council--CCT-222222?style=for-the-badge&logo=shield&logoColor=white" />
   </a>
 </div>
 
